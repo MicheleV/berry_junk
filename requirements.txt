@@ -1,5 +1,5 @@
 Adafruit-DHT==1.4.0
-bottle==0.12.18
+bottle==0.12.19
 colorzero==1.1
 dotenv==0.0.5
 gpiozero==1.5.1
